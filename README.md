@@ -3,7 +3,7 @@
 ## Surf's Up! Climate Analysis
 
 ### Background:
-To help plan my ***4*** day trip to Honolulu, Hawaii, I will do some climate analysis on the area. 
+To help plan my trip to Honolulu, Hawaii, I will do some climate analysis on the area. 
 
 ## Part 1 - Climate Analysis and Exploration
 
@@ -60,8 +60,6 @@ Returning a JSON list of the minimum temperature, the average temperature, and t
 When given the start **and** the end date, calculate the TMIN, TAVG, and TMAX for dates between the start and end date inclusive.
 Returning a JSON list of the minimum temperature, the average temperature, and the max temperature for the given start-end range
 
-<img width="542" alt="Screen Shot 2021-05-29 at 6 19 09 pm" src="https://user-images.githubusercontent.com/73929301/120063681-b98e8d80-c0ab-11eb-9739-afa5fefe10c6.png">
-
 ### To use:
 1. Clone this repository
 2. Open new terminal within root of the directory
@@ -70,6 +68,8 @@ Returning a JSON list of the minimum temperature, the average temperature, and t
 5. Open local host in web browser
 6. Investigate routes by following links
 7. For routes 5 and 6, remember to enter dates into the url bar in the correct format 
+
+<img width="542" alt="Screen Shot 2021-05-29 at 6 19 09 pm" src="https://user-images.githubusercontent.com/73929301/120063681-b98e8d80-c0ab-11eb-9739-afa5fefe10c6.png">
 
 ### Considerations: 
 - [] Complete bonus part of the task
